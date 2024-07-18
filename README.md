@@ -31,7 +31,7 @@ Teve alguns pontos no documento que foi passado que não consegui realizar. Pesq
   - Falhou por conta dos dados do login na ConnectionString;
   - Por algum motivo não consigo logar no SQL Server, optei por usar o SQLite.
 - React
-  - Confesso que não sabia como adicionar o React no Blazor, e não sabia se seria permitido utilizar um código front-end separado.
+  - Confesso que não sabia como adicionar o React no Blazor;
   - Mesmo assim, tentei fazer alguns procedimentos, mas estavam ficando uma gambiarra bem feia.
 - EndPoints fornecidos
   - Esse eu tentei e testei de várias formas, pesquisei em todo lugar, mas não consegui fazer a requisição funcionar e trazer os dados corretamente.
